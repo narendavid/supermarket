@@ -1,0 +1,39 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "almond",
+            "price": 4,
+            "stock": 90,
+            "image": "almond.jpg"
+        },
+        {
+            "id": 2,
+            "name": "apple",
+            "price": 2,
+            "stock": 200,
+            "image": "apple.jpg"
+        },
+        {
+            "id": 3,
+            "name": "avocado",
+            "price": 2,
+            "stock": 90,
+            "image": "avocado.jpg"
+        },
+        {
+            "id": 4,
+            "name": "blueberry",
+            "price": 5,
+            "stock": 100,
+            "image": "blueberry.jpg"
+        },
+        {
+            "id": 5,
+            "name": "broccoli",
+            "price": 3,
+            "stock": 120,
+            "image": "broccoli.jpg"
+        }
+    ]
+}
